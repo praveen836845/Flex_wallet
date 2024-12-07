@@ -1,6 +1,6 @@
 # Flex Wallet Extension
 
-<img src="../flex_wallet/wallet/public/logo.png" alt="CrossX Logo" width="100" style="background-color: black;"/>
+<img src="../flex_wallet/wallet/public/logo.png" alt="FLEX Logo" width="100" style="background-color: black;"/>
 
 ## Overview
 
@@ -16,7 +16,7 @@ FlexWallet is a browser wallet extension designed to facilitate seamless native 
 
 ## Problem Statement
 
-With the rapid evolution of blockchain technology, users face challenges in managing assets across multiple networks. Traditional wallets often require the use of multiple applications, leading to confusion and inefficiency. CrossX addresses this fragmentation, enabling users to manage their assets from a single platform.
+With the rapid evolution of blockchain technology, users face challenges in managing assets across multiple networks. Traditional wallets often require the use of multiple applications, leading to confusion and inefficiency. Flex Wallet addresses this fragmentation, enabling users to manage their assets from a single platform.
 
 ## Getting Started
 
@@ -25,15 +25,15 @@ With the rapid evolution of blockchain technology, users face challenges in mana
 - A modern web browser (Chrome or any Chromium-based browser).
 - Basic understanding of cryptocurrency wallets and blockchain technology.
 
-### Installation
+<!-- ### Installation
 
-1. Download the latest release of the CrossX wallet from the [Chrome Web Store](https://chromewebstore.google.com/detail/crossx-wallet/lhkllbobnfhbkfgnoblppaioenenoahf?pli=1).
-2. Follow the installation instructions on the Chrome Web Store.
+<!-- 1. Download the latest release of the Flex wallet from the [Chrome Web Store] (https://chromewebstore.google.com/detail/crossx-wallet/lhkllbobnfhbkfgnoblppaioenenoahf?pli=1). -->
+2. Follow the installation instructions on the Chrome Web Store. -->
 
 ### Usage
 
 1. **Create a Wallet:**
-   - Launch the CrossX extension.
+   - Launch the Flex Wallet extension.
    - Follow the on-screen instructions to create a new wallet, securely storing your 12-word seed phrase.
 
 2. **Send/Receive Coins:**
@@ -44,7 +44,7 @@ With the rapid evolution of blockchain technology, users face challenges in mana
 
 ## Future Development
 
-CrossX is continuously evolving. Upcoming features include:
+Flex Wallet is continuously evolving. Upcoming features include:
 
 - **Manual Network Addition:** Allowing users to add custom blockchains.
 - **Advanced DeFi Integrations:** Staking, yield farming, and liquidity provision features.
@@ -72,7 +72,7 @@ For any inquiries or support, feel free to open an issue on the GitHub repositor
 <!-- - **Demo Video:** [Watch here](https://www.youtube.com/watch?v=uBDvRxWr-Js) -->
 <!-- - **Project Website:** [CrossX Wallet Chrome Extension](https://chromewebstore.google.com/detail/crossx-wallet/lhkllbobnfhbkfgnoblppaioenenoahf?pli=1) -->
 - **Readme:** [View Readme](https://dhruv245.github.io/cross-wallet/)
-- **Marketing Documentation:** [View Marketing Documentation](https://dhruv245.github.io/cross-wallet/MARKETING.html)
-- **Technical Documentation:** [View Technical Documentation](https://dhruv245.github.io/cross-wallet/TECHNICAL.html)
-
+<!-- - **Marketing Documentation:** [View Marketing Documentation](https://dhruv245.github.io/cross-wallet/MARKETING.html)
+- **Technical Documentation:** [View Technical Documentation](https://dhruv245.github.io/cross-wallet/TECHNICAL.html) -->
+- **PRIVACY POLICY:** [VIEW PRIVACY POLICY]()
 Thank you for checking out CrossX! We look forward to your feedback and contributions!
