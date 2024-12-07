@@ -75,6 +75,6 @@ For any inquiries or support, feel free to open an issue on the GitHub repositor
 
 <!-- - **Marketing Documentation:** [View Marketing Documentation](https://dhruv245.github.io/cross-wallet/MARKETING.html)
 - **Technical Documentation:** [View Technical Documentation](https://dhruv245.github.io/cross-wallet/TECHNICAL.html) -->
-- **PRIVACY POLICY:** [VIEW PRIVACY POLICY]()
+- **PRIVACY POLICY:** [VIEW PRIVACY POLICY](https://github.com/praveen836845/Flex_wallet/blob/main/PRIVACY_POLICY.md)
 
 Thank you for checking out CrossX! We look forward to your feedback and contributions!
