@@ -1,10 +1,10 @@
-# CrossX Wallet Extension
+# Flex Wallet Extension
 
-<img src="https://github.com/user-attachments/assets/5bbd713d-7ce8-4182-acd1-c1e1272150e8" alt="CrossX Logo" width="100" style="background-color: black;"/>
+<img src="../flex_wallet/wallet/public/logo.png" alt="CrossX Logo" width="100" style="background-color: black;"/>
 
 ## Overview
 
-CrossX is a browser wallet extension designed to facilitate seamless native coin transactions across CrossFi and EVM-compatible blockchains. The wallet supports a variety of functionalities, including 12-word seed phrase security, sending and receiving coins, and fetching ERC-20 tokens and NFTs. As it evolves, CrossX aims to become a comprehensive solution for managing digital assets, providing a unified and secure experience for users across multiple blockchain ecosystems.
+FlexWallet is a browser wallet extension designed to facilitate seamless native coin transactions across CrossFi and EVM-compatible blockchains. The wallet supports a variety of functionalities, including 12-word seed phrase security, sending and receiving coins, and fetching ERC-20 tokens and NFTs. As it evolves, Flex Wallet aims to become a comprehensive solution for managing digital assets, providing a unified and secure experience for users across multiple blockchain ecosystems.
 
 ## Key Features
 
@@ -69,8 +69,8 @@ For any inquiries or support, feel free to open an issue on the GitHub repositor
 ## Links
 
 - **GitHub Repository:** [CrossX Wallet Extension](https://github.com/Amal221200/cross-wallet)
-- **Demo Video:** [Watch here](https://www.youtube.com/watch?v=uBDvRxWr-Js)
-- **Project Website:** [CrossX Wallet Chrome Extension](https://chromewebstore.google.com/detail/crossx-wallet/lhkllbobnfhbkfgnoblppaioenenoahf?pli=1)
+<!-- - **Demo Video:** [Watch here](https://www.youtube.com/watch?v=uBDvRxWr-Js) -->
+<!-- - **Project Website:** [CrossX Wallet Chrome Extension](https://chromewebstore.google.com/detail/crossx-wallet/lhkllbobnfhbkfgnoblppaioenenoahf?pli=1) -->
 - **Readme:** [View Readme](https://dhruv245.github.io/cross-wallet/)
 - **Marketing Documentation:** [View Marketing Documentation](https://dhruv245.github.io/cross-wallet/MARKETING.html)
 - **Technical Documentation:** [View Technical Documentation](https://dhruv245.github.io/cross-wallet/TECHNICAL.html)
