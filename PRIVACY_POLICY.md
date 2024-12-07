@@ -71,6 +71,5 @@ We may update this Privacy Policy from time to time. Changes will be effective i
 ## Contact Us
 
 For any inquiries or support, feel free to open an issue on the GitHub repository or contact us via our [social media](https://x.com/DhruvJ245).
-
-**Email:** [TechSteck.com]  
+ 
 **Website:** [VIEW THE PRIVACY POLICY](https://your-username.github.io/)  
