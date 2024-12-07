@@ -1,6 +1,6 @@
 # Flex Wallet Extension
 
-<img src="../flex_wallet/wallet/public/logo.png" alt="FLEX Logo" width="100" style="background-color: black;"/>
+<img src="logo.png" alt="FLEX Logo" width="100" style="background-color: black;"/>
 
 ## Overview
 
@@ -68,7 +68,7 @@ For any inquiries or support, feel free to open an issue on the GitHub repositor
 
 ## Links
 
-- **GitHub Repository:** [CrossX Wallet Extension](https://github.com/Amal221200/cross-wallet)
+<!-- - **GitHub Repository:** [CrossX Wallet Extension](https://github.com/Amal221200/cross-wallet) -->
 <!-- - **Demo Video:** [Watch here](https://www.youtube.com/watch?v=uBDvRxWr-Js) -->
 <!-- - **Project Website:** [CrossX Wallet Chrome Extension](https://chromewebstore.google.com/detail/crossx-wallet/lhkllbobnfhbkfgnoblppaioenenoahf?pli=1) -->
 - **Readme:** [View Readme](https://dhruv245.github.io/cross-wallet/)
