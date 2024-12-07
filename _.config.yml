@@ -1,0 +1,12 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - MARKETING.md
+  - TECHNICAL.md
+  - LICENSE.md
+  - CODE_OF_CONDUCT.md
